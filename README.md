@@ -25,3 +25,8 @@ $ python3 benford.py
 ```
 
 The script uses a publicly available data from [this repository](https://github.com/samayo/country-json). You can try out different data available in the repository, or any other data source.
+
+## License
+Copyright (c) 2023 Vishnu Haridas
+
+This software is published under MIT License. See [LICENSE.md](LICENSE.md) for more details.
